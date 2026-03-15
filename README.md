@@ -5,9 +5,13 @@ A classic two-player Tic-Tac-Toe game built with React 19. Players take turns pl
 ![React](https://img.shields.io/badge/React-19.0.0-61DAFB?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-4.4.5-646CFF?logo=vite)
 
+## Screenshot
+
+![Tic-Tac-Toe Game](docs/images/ScreenShot.png)
+
 ## Live Demo
 
-[Play the game here](#) <!-- Replace with your deployed URL -->
+[Play the game here](https://tic-tac-toe-bice-pi-66.vercel.app)
 
 ## Features
 
